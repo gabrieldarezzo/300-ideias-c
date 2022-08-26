@@ -4,6 +4,28 @@ gcc -o run exercicios/1.1.6_quadrado.c
 ./run
 ```
 
+```
+gcc -o run exercicios/menu_simple.c
+```
+
+
+## Linux / Mac, and whant compile a .exe?!  
+
+### Install on Linux:   
+```shell
+brew install mingw-w64
+```
+
+### Install on Linux:  
+```shell
+sudo apt-get install mingw-w64
+```
+
+```shell
+x86_64-w64-mingw32-g++ -o run exercicios/menu_simple.c
+```
+
+
 # Explicação
 
 Pq não podemos simplesmente rodar o `sample.c` ?
