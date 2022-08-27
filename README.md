@@ -104,6 +104,10 @@ gcc => Chamando o compilador, (GNU Compiler Collection) é um conjunto de compil
 ola_mundo.exe (Nome do arquivo binario a ser criado) (Obs: o `.exe` é opcional, o gcc sempre coloca ele se omitido.)
 ```
 
+## Bonus e dicas:
+Deixe sempre a exibição de extensão dos arquivos habiitados:  
+https://www.youtube.com/watch?v=mdXePAIlwFM
+
 ## Compilar em (Mac/Linux)  
 ```shell
 gcc -o run ola_mundo.c
