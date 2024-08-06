@@ -16,6 +16,9 @@ Talk is cheap show me the code!
 - Linus Torvalds
 ```
 
+a brincadeira aqui é resolver 300 exercícios:
+[link do .pdf](https://github.com/gabrieldarezzo/300-ideias-c/blob/main/docs/300%20Ideias%20Para%20Programar%20Computadores.pdf)
+
 # Meu primeiro programa
 Ok, bora lá rodar nosso primeiro programa em C?!
 
