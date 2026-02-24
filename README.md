@@ -109,7 +109,11 @@ ola_mundo.exe (Nome do arquivo binario a ser criado) (Obs: o `.exe` é opcional,
 
 ## Bonus e dicas:
 Deixe sempre a exibição de extensão dos arquivos habiitados:  
-https://www.youtube.com/watch?v=mdXePAIlwFM
+https://www.youtube.com/watch?v=mdXePAIlwFM  
+
+Hello World Como Você Nunca Viu! | Entendendo C: 
+https://www.youtube.com/watch?v=Gp2m8ZuXoPg  
+ 
 
 ## Compilar em (Mac/Linux)  
 ```shell
